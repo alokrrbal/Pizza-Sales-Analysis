@@ -4,7 +4,7 @@
 
 - **Project Name:** Pizza Sales Report  
 - **Tools Used:** Power BI, SQL  
-- **Dashboard Link:** [<img src="![link](https://github.com/alokrrbal/Pizza-Sales-Analysis/assets/116140888/48c8f62d-8f2d-410a-ae34-13dcff90e30c)" width="100" height="20">](https://app.powerbi.com/view?r=eyJrIjoiOWFiN2UyMmEtODJkNS00OGVlLWFjNmEtZDA5MzBhMjA3N2E3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) 
+- - **Dashboard Link:** <a href="https://app.powerbi.com/view?r=eyJrIjoiOWFiN2UyMmEtODJkNS00OGVlLWFjNmEtZDA5MzBhMjA3N2E3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Now</a> 
 - **Report Video Recording:** [Video Recording](vdo.com)  
 - **Report Snapshots:** [Snapshot 1](http.image1.in), [Snapshot 2](http.image2.in)
 
