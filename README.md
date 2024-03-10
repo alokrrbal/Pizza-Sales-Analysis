@@ -28,6 +28,12 @@ Various charts were created to visualize different aspects of pizza sales data:
 6. **Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders**
 7. **Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders**
 
+# Report Snapshot - 1 (Power BI DESKTOP)
+![Dashboard-1](https://github.com/alokrrbal/Pizza-Sales-Analysis/assets/116140888/61afe6f3-96ad-4caf-a728-b964dffd2c87)
+
+# Report Snapshot - 2 (Power BI DESKTOP)
+![Dashboard-2](https://github.com/alokrrbal/Pizza-Sales-Analysis/assets/116140888/92d23a09-3fe3-4b1c-ab3d-e6255cdcaa97)
+
 ## Insights
 
 ### Busiest Days & Times
