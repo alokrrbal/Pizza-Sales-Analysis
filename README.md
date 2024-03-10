@@ -4,7 +4,7 @@
 
 - **Project Name:** Pizza Sales Report  
 - **Tools Used:** Power BI, SQL  
-- - **Dashboard Link:** <a href="https://app.powerbi.com/view?r=eyJrIjoiOWFiN2UyMmEtODJkNS00OGVlLWFjNmEtZDA5MzBhMjA3N2E3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Now</a> 
+-  **Dashboard Link:** <a href="https://app.powerbi.com/view?r=eyJrIjoiOWFiN2UyMmEtODJkNS00OGVlLWFjNmEtZDA5MzBhMjA3N2E3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Now</a> 
 - **Report Video Recording:** [Video Recording](vdo.com)  
 - **Report Snapshots:** [Snapshot 1](http.image1.in), [Snapshot 2](http.image2.in)
 
