@@ -5,8 +5,6 @@
 - **Project Name:** Pizza Sales Report  
 - **Tools Used:** Power BI, SQL  
 -  **Dashboard Link:** <a href="https://app.powerbi.com/view?r=eyJrIjoiOWFiN2UyMmEtODJkNS00OGVlLWFjNmEtZDA5MzBhMjA3N2E3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="_blank">Click Now</a> 
-- **Report Video Recording:** [Video Recording](vdo.com)  
-- **Report Snapshots:** [Snapshot 1](![Dashboard-1](https://github.com/alokrrbal/Pizza-Sales-Analysis/assets/116140888/61afe6f3-96ad-4caf-a728-b964dffd2c87)), [Snapshot 2](http.image2.in)
 
 ## Problem Statement
 
