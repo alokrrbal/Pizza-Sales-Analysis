@@ -34,6 +34,9 @@ Various charts were created to visualize different aspects of pizza sales data:
 # Report Snapshot - 2 (Power BI DESKTOP)
 ![Dashboard-2](https://github.com/alokrrbal/Pizza-Sales-Analysis/assets/116140888/92d23a09-3fe3-4b1c-ab3d-e6255cdcaa97)
 
+# Report Recording
+https://github.com/alokrrbal/Pizza-Sales-Analysis/assets/116140888/f83aad94-18a0-4243-a9f6-8babdd34b50c
+
 ## Insights
 
 ### Busiest Days & Times
